@@ -14,7 +14,7 @@ router.post('/add', async (req, res) => {
     three_month_price: req.body.three_month_price,
     six_month_price: req.body.six_month_price,
     nine_month_price: req.body.nine_month_price,
-    twelve_month_price: req.body.twelve_month_price,
+    eleven_month_price: req.body.eleven_month_price,
     status: req.body.status
   });
   try {

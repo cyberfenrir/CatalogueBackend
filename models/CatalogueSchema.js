@@ -33,7 +33,7 @@ const CatalogueSchema = new Schema({
   nine_month_price:{
     type:Number
   },
-  twelve_month_price:{
+  eleven_month_price:{
     type:Number
   },
   status:{
